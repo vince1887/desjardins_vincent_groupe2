@@ -13,13 +13,21 @@ EXPLICATION SUR MISE EN ESPACE DE L'OEUVRE (TEXTE À COMPOSÉ)
 ### LISTE DES COMPOSANTES TECHNIQUES DE L'OEUVRE
   - 3 projecteurs
   - 3 écrans
-  - système de son surround 6.1.1 (c'est-à-dire 6 speakers autour de l'utilisateur pour lui permetre  d'entendre si les sons proviennet de la gauche, la droite, l'avant ou l'arrière. Ensuite le premier 1 signifie qu'il il y a un caisson de basses et le dernier 1 signifie qu'il y a un speaker au niveau du plafond orioenté vers l'utilisateur pour permettre à l'utilisater de percevoir les snos sur l'axe des Y aussi don si le son provien non seulement du le gauche, mais s'il provient de la gauche en haut ou la gauche en bas.)
+  - système de son surround 6.1.1 (c'est-à-dire 6 hauts parleurs autour de l'utilisateur pour lui permetre  d'entendre si les sons proviennet de la gauche, la droite, l'avant ou l'arrière. Ensuite le premier 1 signifie qu'il il y a un caisson de basses et le dernier 1 signifie qu'il y a un speaker au niveau du plafond orioenté vers l'utilisateur pour permettre à l'utilisater de percevoir les snos sur l'axe des Y aussi don si le son provien non seulement du le gauche, mais s'il provient de la gauche en haut ou la gauche en bas.)
   - 8 transducteurs (les dispositif qui permettent de créer les vibrations)
+  - ordinateur de controle
+  - panneau de son 
+  - cables de xlr pour envoyer le son dans les hauts parleurs
+  - cables de flux vidéo pour transmettre le flux vidéo au projecteurs
+  - 
 
-### LISTE ÉLÉMENTS NÉCESSAIRES MISE EN EXPOSITION (CROCHET, POCHE DE SABLE...)
-  - VBVEFHEGEF
-  - ESUJHWIV
-  - EJEFFHD
+### LISTE ÉLÉMENTS NÉCESSAIRES MISE EN EXPOSITION 
+  - structure pur suspendre au plafond
+  - Cables de suspension au plafond pour retenir les écrans
+  - Pied pour tenir les hauts parleurs
+  - structure en bois pour cacher les transducteurs et permetre a l'utilisateur de se tenir dessu
+  - chemin de protection pour les files au sol
+  - 
 
 ### EXPERIENCE VÉCU :
   - DESCRIPTION EXPÉRIENCE, GESTE À POSER...
@@ -28,4 +36,6 @@ EXPLICATION SUR MISE EN ESPACE DE L'OEUVRE (TEXTE À COMPOSÉ)
 
 ### RÉFERENCES
 https://vimeo.com/159521082
+http://www.ryoichikurokawa.com/project/unfold.html
+https://www.elektramontreal.ca/bian2021-ryoichi-kurokawa?lang=fr
 
