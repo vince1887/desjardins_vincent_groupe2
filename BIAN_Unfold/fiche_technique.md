@@ -30,7 +30,7 @@ EXPLICATION SUR MISE EN ESPACE DE L'OEUVRE (TEXTE À COMPOSÉ)
   - 
 
 ### EXPERIENCE VÉCU :
-  - (DESCRIPTION EXPÉRIENCE, GESTE À POSER...)Unfold Est une oeuvre immersive et contemplative c'est à dire qu'on n'a pas de geste a poser pour intéragir avec l'oeuvre. 
+  - (DESCRIPTION EXPÉRIENCE, GESTE À POSER...)Unfold Est une oeuvre immersive et contemplative c'est à dire qu'on n'a pas de geste à poser pour intéragir avec l'oeuvre. D'abord, en arrivant dans la salle de la BIAN, l'oeuvre de Ryoichi Kurokawa est la première qui a capté mon attention à cause de son emplacement et Unfold est une oeuvre imposante. 
   - (CE QUI VOUS A PLUS, DONNÉ DES IDÉES ET JUSTIFICATION) 
   - ASPECT QUE VOUS NE SOUHAITERIEZ PAS RETENIR POUR VOS PROPRES CRÉATIONS OU QUE VOUS FERIEZ AUTREMENT ET JUSTIFICATIONS
 
