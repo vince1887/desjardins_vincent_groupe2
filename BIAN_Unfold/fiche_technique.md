@@ -16,7 +16,8 @@ art/science inspiré des découvertes récentes. Ceci est tiré du cartel de l'o
 
 ![Cartel de l'oeuvre](Media/UNFOLD_cartel.jpg)
 
-EXPLICATION SUR MISE EN ESPACE DE L'OEUVRE (TEXTE À COMPOSÉ)
+Unfold ce situe au milieu de la pièce ainsi que 15 oeuvres. Cette oeuvre mesure environ 
+
 
 ### LISTE DES COMPOSANTES TECHNIQUES DE L'OEUVRE
   - 3 projecteurs
