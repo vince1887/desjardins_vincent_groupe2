@@ -6,7 +6,15 @@
  - Arsenal Art contemporain Montréal
  - 9 février 2022
 
-DESSCIPTION DE L'OEUVRE (À COMPOSER OU CARTEL DE L'EXPO ET CITER)
+Inspirée par les dernières découvertes dans le domaine de
+l'astrophysique, l'installation immersive et sensorielle de Ryoichi
+Kurokawa, cherche à traduire en sons, images et vibrations, les
+phénomènes entourant la formation et l'évolution des étoiles.
+Avec unfold, Ryoichi Kurokawa s'intéresse à la synesthésie, en
+fusionnant les matériaux sonores et visuels, au service d'un projet
+art/science inspiré des découvertes récentes. Ceci est tiré du cartel de l'oeuvre inséré ci-dessou.
+
+
 
 EXPLICATION SUR MISE EN ESPACE DE L'OEUVRE (TEXTE À COMPOSÉ)
 
