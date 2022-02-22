@@ -14,7 +14,7 @@ Avec unfold, Ryoichi Kurokawa s'intéresse à la synesthésie, en
 fusionnant les matériaux sonores et visuels, au service d'un projet
 art/science inspiré des découvertes récentes. Ceci est tiré du cartel de l'oeuvre inséré ci-dessou.
 
-![Cartel de l'oeuvre](image.jpg)
+![Cartel de l'oeuvre](Media/UNFOLD_cartel.jpg)
 
 EXPLICATION SUR MISE EN ESPACE DE L'OEUVRE (TEXTE À COMPOSÉ)
 
