@@ -41,6 +41,8 @@ Unfold se situe au milieu de la pièce. Cette oeuvre mesure environ 5 mètres de
 
 ![Cartel de l'oeuvre](Media/UNFOLD_projecteur.jpg)
 
+![Cartel de l'oeuvre](Croquis/Unfold_croquis-de-cote.png)
+
 ### EXPERIENCE VÉCU :
   - Unfold Est une oeuvre immersive et contemplative c'est-à-dire qu'on n'a pas de geste à poser pour interagir avec l'oeuvre. D'abord, en arrivant dans la salle de le BIAN, l'oeuvre de Ryoichi Kurokawa est la première qui a captivé mon attention à cause de son emplacement et unfold est une oeuvre imposante. Ensuite, quand on se place au milieu de l'oeuvre la façon dont le son, les frequences basses surtout, concordent avec les images et les vibrations cela crée une stimulation qui utilise plusieurs de nos senses.
   -À la base, j'adore le son et cet oeuvre a permis de concretiser en quelque sorte les sons. Ce que je veux dire c'est que habituellement quand on écoute de la musique on utilise seulement nos orreilles, mais avec cet oeuvre le son me semblais amplifier par l'image et les vibration. C'est quelque chose que je vais garder en tête au moment de crée des oeuvres immersives. Ensuite, j'ai énnormement aimé les vibration, car il y a quelque chose de très réconfortant avec les vibrations sur notre corps.
