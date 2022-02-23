@@ -28,7 +28,6 @@ Unfold ce situe au milieu de la pièce. Cette oeuvre mesure environ 5 mêtres de
   - panneau de son 
   - cables de xlr pour envoyer le son dans les hauts parleurs
   - cables de flux vidéo pour transmettre le flux vidéo au projecteurs
-  - 
 
 ### LISTE ÉLÉMENTS NÉCESSAIRES MISE EN EXPOSITION 
   - structure pur suspendre au plafond
@@ -36,11 +35,10 @@ Unfold ce situe au milieu de la pièce. Cette oeuvre mesure environ 5 mêtres de
   - Pied pour tenir les hauts parleurs
   - structure en bois pour cacher les transducteurs et permetre a l'utilisateur de se tenir dessu
   - chemin de protection pour les files au sol
-  - 
 
 ### EXPERIENCE VÉCU :
-  - (DESCRIPTION EXPÉRIENCE, GESTE À POSER...)Unfold Est une oeuvre immersive et contemplative c'est à dire qu'on n'a pas de geste à poser pour intéragir avec l'oeuvre. D'abord, en arrivant dans la salle de la BIAN, l'oeuvre de Ryoichi Kurokawa est la première qui a capté mon attention à cause de son emplacement et Unfold est une oeuvre imposante. 
-  - (CE QUI VOUS A PLUS, DONNÉ DES IDÉES ET JUSTIFICATION) 
+  - (DESCRIPTION EXPÉRIENCE, GESTE À POSER...)Unfold Est une oeuvre immersive et contemplative c'est à dire qu'on n'a pas de geste à poser pour intéragir avec l'oeuvre. D'abord, en arrivant dans la salle de la BIAN, l'oeuvre de Ryoichi Kurokawa est la première qui a capté mon attention à cause de son emplacement et Unfold est une oeuvre imposante. Ensuite, quand on se place au miieu de l'oeuvre la façon dont le son, les frequences bass surtout, concordent avec les images et les vibrations cela crée une stimulation qui utilise plusieurs de nos senses.
+  - (CE QUI VOUS A PLUS, DONNÉ DES IDÉES ET JUSTIFICATION) À la base, j'adore le son et cet oeuvre a permis de concretiser en quelque sorte les sons. Ce que je veux dire c'est que habituellement quand on écoute de la musique on utilise seulement nos orreilles, mais 
   - ASPECT QUE VOUS NE SOUHAITERIEZ PAS RETENIR POUR VOS PROPRES CRÉATIONS OU QUE VOUS FERIEZ AUTREMENT ET JUSTIFICATIONS
 
 ### RÉFERENCES
