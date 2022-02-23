@@ -16,7 +16,7 @@ art/science inspiré des découvertes récentes. Ceci est tiré du cartel de l'o
 
 ![Cartel de l'oeuvre](Media/UNFOLD_cartel.jpg)
 
-Unfold ce situe au milieu de la pièce. Cette oeuvre mesure environ 5 mêtres de haut, donc elle saute auz yeux quand on entre dans la BIAN.
+Unfold ce situe au milieu de la pièce. Cette oeuvre mesure environ 5 mêtres de haut, donc elle saute aux yeux quand on entre dans la BIAN. Composé de trois écrans bout à bout avec un lèger angle permettant de créer un effet de grandeur pour l'utilisateur.
 
 
 ### LISTE DES COMPOSANTES TECHNIQUES DE L'OEUVRE
