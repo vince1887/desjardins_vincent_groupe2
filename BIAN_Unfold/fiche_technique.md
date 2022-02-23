@@ -51,6 +51,8 @@ Unfold se situe au milieu de la pièce. Cette oeuvre mesure environ 5 mètres de
 
 ### RÉFERENCES
 https://vimeo.com/159521082
+
 http://www.ryoichikurokawa.com/project/unfold.html
+
 https://www.elektramontreal.ca/bian2021-ryoichi-kurokawa?lang=fr
 
