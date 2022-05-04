@@ -8,7 +8,7 @@
 ## Description de l'atelier-conférence
 > Umitemieu est un projet en éducation muséale, destiné aux élèves autochtones du primaire et du secondaire du Québec qui vise à faciliter l’accessibilité aux objets des collections autochtones de musées en permettant aux jeunes d’interagir avec des objets culturels et identitaires et de développer des contenus qui leur sont significatifs à l’aide d’outils numériques. La conférence présentera les différentes phases du projet, de la numérisation des objets issus des réserves aux ateliers en communautés. Une démonstration en direct des techniques novatrices telles que la photogrammétrie et la création d’hologrammes numérique sera animée par Uhu Labo nomade à l’aide d’objet issu de la collection éducative du McCord.
 
- 	[Site web Mouvements 2020](https://www.cmontmorency.qc.ca/etudiants/vie-etudiante/evenements/semaine-des-arts/semaine-des-arts-2022/programmation/)
+[Site web Mouvements 2020](https://www.cmontmorency.qc.ca/etudiants/vie-etudiante/evenements/semaine-des-arts/semaine-des-arts-2022/programmation/)
 
 ### EXPERIENCE VÉCU /compte rendu et appreciation:
   - DESCRIPTION EXPÉRIENCE, GESTE À POSER...
