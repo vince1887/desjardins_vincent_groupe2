@@ -1,1 +1,1 @@
-ceci est mon dossier de photographies
+Ceci est mon dossier de photographies.
