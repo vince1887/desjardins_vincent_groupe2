@@ -1,1 +1,1 @@
-ceci est mon dossier de documentation pour l'oeuvre Aura à la basilique Notre-Dame
+ceci est mon dossier présantant l'oeuvre Aura à la basilique Notre-Dame
