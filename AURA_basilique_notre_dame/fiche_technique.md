@@ -22,7 +22,7 @@ puisque Moment Factory est une firme bien établei dans le domaine du multimédi
 [![vidéo provenant du site de Moment Factory](photos/video_link.PNG)](https://momentfactory.com/projets/tous/tous/aura)
 
 
-### LISTE DES COMPOSANTES TECHNIQUES DE L'OEUVRE (CAMERA, PANNEAU DE LUMIERE....)
+### Liste des composants technique de l'oeuvre
   - Plusieur haut-parleur
   - Plusier dizaines de projecteurs
   - ordinateur de controle
