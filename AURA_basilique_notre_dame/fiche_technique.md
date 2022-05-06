@@ -1,11 +1,12 @@
-# Aura < la basilique Notre-dame de Montréal
+# Aura 
 ## NOM DE L'ARTISTE
- - ANNÉE DE RÉAL
- - NOM DE L'EXPO/EVENEMNT
- - LIEU EXPOSITION
- - DATE VISITE
+ - Année de réalisation: 2017
+ - À la basilique Notre-Dame
+ - visité le 25 février 2022 à 20h
 
-DESSCIPTION DE L'OEUVRE (À COMPOSER OU CARTEL DE L'EXPO ET CITER)
+Lumière, musique orchestrale originale et architecture grandiose se rencontrent ensuite pour offrir un spectacle multimédia dont l’énergie envoûtante emmène le spectateur du plancher à la voûte, jusqu’au plus profond de lui-même.
+
+la description de l'oeuvre provient du [site web de Moment Factory](https://momentfactory.com/projets/tous/tous/aura)
 
 EXPLICATION SUR MISE EN ESPACE DE L'OEUVRE (TEXTE À COMPOSÉ)
 
