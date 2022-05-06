@@ -55,20 +55,45 @@ L'exposition Configuration du sensible est composé de trois oeuvres. Premièrem
 ## Méchanisme de dessaisissement (2019-2021)
 
 ![Cartel Méchanisme de dessaisissement](photos/cartel_mechanisme_dessaisissement.JPG)
+### oeuvre carré
+![Photo oeuvre carré](photos/mechanisme_carre_face.JPG)
+### oeuvre triangulaire
+![Photo oeuvre triangulaire](photos/mechanisme_triangle_face.JPG)
+### oeuvre circulaire
+![Photo oeuvre circulaire](photos/mechanisme_rond_face.JPG)
 
 ### Liste des composantes techniques de l'oeuvre
-  - CECFVE
-  - VEVEVV
-  - VERVREVE
-  - REVERVER
+  
+  - structure en métal
+  - moteur
+  - chaine
+  - ressort
+  - cable d'alimentation
+  - planche de bois
+  - poids d'entrainement
+  - ordinateur de controle
+  - lumiere del
+  - feuille d'acrylique
 
 ### Liste des éléments nécessaires à la mise en exposition  
-  - VBVEFHEGEF
-  - ESUJHWIV
-  - EJEFFHD
+  - lumiere au plafond pour illuminer l'oeuvre
+  - ruban adhesif noir sur le mur
+  - prise de courant
+  - mur qui peut supporter la structure
+  
+   ![mechanisme de dos](photos/mechanisme_carrer_dos.JPG)
+   ![mechanisme, chaine et poids](photos/mechanisme_moteur_derriere.JPG)
+   ![photo des fils](photos/mechanisme_fils.JPG)
+   ![photo du moteur de devant](photos/mechanisme_moteur_devant.JPG)
+   ![photo ordinateru de controle](photos/mechanisme_ordi_controle.JPG)
+   ![texture acrylique](photos/mechanisme_texture.JPG)
+   ![projecteur](photos/mechanisme_texture.JPG)
+
+
 
 ### EXPERIENCE VÉCU :
   - DESCRIPTION EXPÉRIENCE, GESTE À POSER...
+  Cette exposition est plutot contenplative, les deux derniere oeuvre son a observer et elles ne demendent pas à interagire avec celle-ci. Tandis que la première quand à elle peut être experimenté physiquement, car le son est conduit par des transducteurs et non des hauts-parleurs donc nous pouvions toucher au mur pour ressentir en quelques sorte les son qui se propagaient a l'aide des transducteurs et des planches de bois.
   - CE QUI VOUS A PLUS, DONNÉ DES IDÉES ET JUSTIFICATION
   - ASPECT QUE VOUS NE SOUHAITERIEZ PAS RETENIR POUR VOS PROPRES CRÉATIONS OU QUE VOUS FERIEZ AUTREMENT ET JUSTIFICATIONS
 
