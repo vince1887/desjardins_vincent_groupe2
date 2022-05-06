@@ -8,22 +8,34 @@ L'exposition Configuration du sensible est composé de trois oeuvres. Premièrem
 
 ## L'en deçà (2021)
 
-!(Cartel L'en deçà)[photos/cartel_l_en_deca.JPG]
+![Cartel L'en deçà](photos/cartel_l_en_deca.JPG)
 
-### Liste des composantes techniques de l'oeuvre
-  - CECFVE
-  - VEVEVV
-  - VERVREVE
-  - REVERVER
+## Liste des composantes techniques de l'oeuvre
 
-### Liste des éléments nécessaires à la mise en exposition 
-  - VBVEFHEGEF
-  - ESUJHWIV
-  - EJEFFHD
+
+### tansducteur
+![Photo transducteur](photos/l_en_deca_transducteur.JPG) 
+### ordinateur de controle  
+![Photo ordinateur de controle](photos/l_en_deca_ordi_controle.jpg) 
+### carte de son  
+![Photo carte de son](photos/l_en_deca_carte_son.jpg) 
+### fils pour le courant et les transducteurs  
+![Fils divers](photos/l_en_deca_fils.JPG) 
+### Structure en bois  
+![Photo structure en bois](photos/l_en_deca_structure_exterieur.JPG) 
+
+## Liste des éléments nécessaires à la mise en exposition 
+  - cache fils
+  - projecteurs de lumière
+  - grand espace pour acceuillir la structure de bois imposante
+### cache fils 
+![Photo cache fils](photos/l_en_deca_cahce_fils.jpg)
+### Espace, tels que la salle Alfred Pellan, asser grand pour la structure de bois
+![Photo de l'entré de la salle](photos/entre_salle.JPG)
 
 ## Le fleuve (2021)
 
-!(Cartel Le fleuve)[photos/cartel_la_fleuve.JPG]
+![Cartel Le fleuve](photos/cartel_la_fleuve.JPG)
 
 ### Liste des composantes techniques de l'oeuvre 
   - CECFVE
@@ -38,7 +50,7 @@ L'exposition Configuration du sensible est composé de trois oeuvres. Premièrem
 
 ## Méchanisme de dessaisissement (2019-2021)
 
-!(Cartel Méchanisme de dessaisissement)[photos/cartel_mechanisme_dessaisissement.JPG]
+![Cartel Méchanisme de dessaisissement](photos/cartel_mechanisme_dessaisissement.JPG)
 
 ### Liste des composantes techniques de l'oeuvre
   - CECFVE
