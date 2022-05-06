@@ -1,4 +1,4 @@
-# TITRE DE L'OEUVRE
+# Aura < la basilique Notre-dame de Montréal
 ## NOM DE L'ARTISTE
  - ANNÉE DE RÉAL
  - NOM DE L'EXPO/EVENEMNT
@@ -26,4 +26,5 @@ EXPLICATION SUR MISE EN ESPACE DE L'OEUVRE (TEXTE À COMPOSÉ)
   - ASPECT QUE VOUS NE SOUHAITERIEZ PAS RETENIR POUR VOS PROPRES CRÉATIONS OU QUE VOUS FERIEZ AUTREMENT ET JUSTIFICATIONS
 
 ### RÉFERENCES
-
+[site web de Aura](https://www.aurabasiliquemontreal.com/fr)
+[site web de moment factory](https://momentfactory.com/projets/tous/tous/aura)
