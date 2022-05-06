@@ -11,6 +11,11 @@ L'exposition Configuration du sensible est composé de trois oeuvres. Premièrem
 ![Cartel L'en deçà](photos/cartel_l_en_deca.JPG)
 
 ## Liste des composantes techniques de l'oeuvre
+ - transducteurs
+ - ordinateur de controle
+ - carte de son Focusrite
+ - fils de courants et fils pour les transducteurs
+ - structure en bois
 
 
 ### tansducteur
@@ -38,15 +43,14 @@ L'exposition Configuration du sensible est composé de trois oeuvres. Premièrem
 ![Cartel Le fleuve](photos/cartel_la_fleuve.JPG)
 
 ### Liste des composantes techniques de l'oeuvre 
-  - CECFVE
-  - VEVEVV
-  - VERVREVE
-  - REVERVER
+  - projecteur
+  - hauts-parleurs
 
 ### Liste des éléments nécessaires à la mise en exposition  
-  - VBVEFHEGEF
-  - ESUJHWIV
-  - EJEFFHD
+  - mur pour la projection
+ 
+ [![Video de la projection](http://img.youtube.com/vi/LvR8jOxyN0Q/0.jpg)](http://www.youtube.com/watch?v=LvR8jOxyN0Q)
+ video de l'oeuvre 
 
 ## Méchanisme de dessaisissement (2019-2021)
 
