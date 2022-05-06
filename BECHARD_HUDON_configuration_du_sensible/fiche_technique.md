@@ -92,9 +92,9 @@ L'exposition Configuration du sensible est composé de trois oeuvres. Premièrem
 
 
 ### EXPERIENCE VÉCU :
-  - DESCRIPTION EXPÉRIENCE, GESTE À POSER...
-  Cette exposition est plutot contenplative, les deux derniere oeuvre son a observer et elles ne demendent pas à interagire avec celle-ci. Tandis que la première quand à elle peut être experimenté physiquement, car le son est conduit par des transducteurs et non des hauts-parleurs donc nous pouvions toucher au mur pour ressentir en quelques sorte les son qui se propagaient a l'aide des transducteurs et des planches de bois.
-  - CE QUI VOUS A PLUS, DONNÉ DES IDÉES ET JUSTIFICATION
-  - ASPECT QUE VOUS NE SOUHAITERIEZ PAS RETENIR POUR VOS PROPRES CRÉATIONS OU QUE VOUS FERIEZ AUTREMENT ET JUSTIFICATIONS
+  - Cette exposition est plutot contenplative, les deux derniere oeuvre son a observer et elles ne demendent pas à interagire avec celle-ci. Tandis que la première quand à elle peut être experimenté physiquement, car le son est conduit par des transducteurs et non des hauts-parleurs donc nous pouvions toucher au mur pour ressentir en quelques sorte les son qui se propagaient a l'aide des transducteurs et des planches de bois. De plus, j'ai trouver très intéressant la façon dont le parcour etais tracé ou nous commencions par une oeuvre sonore ensuite directement en sortant de la structure nous appercevions la projection et finalement les sculptures sur le mur. 
+  - Ce qui ma plu de cette exposition c'est la façon dont les artiste ont approché la façon de nous faire vivre le son. Personellement je suis passionné de son et de la façon dont on peut le manipuler, le transformer et en faire ce que le veut pour transmettre une emotion ou installer un ambiance. Dans l'oeuvre L'en deçà le son ne sortait pas par des hauts-parleurs mais des planche de bois, je trouve que il y a quelque chose de très interresant, car cela permet de cahnger l'accoustique du son a la source de ou il sort et je pourrait me voir utiliser une technique comme cell-ci dans un de mes projets futures en multimédia.
+  - L'aspet qui m'a le plsu déplu est la projection vidéo. J'avasi l'impression que le format me dérangeait, j'aurais préférer une projection qui recouvre le mur au complet et non un e petite partie seulement. Je trouve que cela brisait l'idée de grandeur qu'on retrouvais dans l'oeuvre L'en deçà.
 
 ### RÉFERENCES
+[Site web de l'exposition](https://bechardhudon.com/project/configurations-du-sensible-2022/)
