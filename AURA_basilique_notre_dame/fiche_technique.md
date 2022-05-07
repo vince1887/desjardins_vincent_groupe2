@@ -4,8 +4,8 @@
  - À la basilique Notre-Dame
  - visité le 25 février 2022 à 20h
  - Oeuvre récipiendaire du prix THEA Outstanding achievement (2018), Design APPLIED ARTS (2018), NUMIX Video Mapping (2018)
- ![photo de l'expérience](photos/aura_scene_verte_bleu.jpg)
 
+![photo de l'extérieur](photos/basilique_grand_angle_ext.JPG)
 La Fabrique de la Paroisse Notre-Dame a demandé à Moment Factory de concevoir une expérience permanente en son, lumière et vidéo qui attirerait les visiteurs et leur permettrait de découvrir autrement la basilique Notre-Dame, dans le Vieux-Montréal.
 
 Notre défi était de créer un spectacle universel, qui captive, touche et inspire les visiteurs de toutes confessions, mette en valeur ses œuvres et son architecture et respecte le patrimoine religieux de la basilique. D’un point de vue technique, jamais nous n’avions projeté sur une surface aussi vaste et complexe. Le canevas étant composé de multiples couleurs, le mapping vidéo imposait un ajustement pixel par pixel.
@@ -17,7 +17,7 @@ Lumière, musique orchestrale originale et architecture grandiose se rencontrent
 la description de l'oeuvre provient du [site web de Moment Factory](https://momentfactory.com/projets/tous/tous/aura)
 
 Aura est une oeuvre immersive de grande ampleur. Elle est situé dans la basilique Notre-dame et est projetée sur les parois intérieur de la basilique. À aucun moment on peut voir les composants techniques et nécessaire à la mise en exposition.
-
+ ![photo de l'expérience](photos/aura_scene_verte_bleu.jpg)
 ### Recherche pré-visite de l'oeuvre
 puisque Moment Factory est une firme bien établei dans le domaine du multimédia, il ont fait un super travaille de documentation pendant leur pré-production. J'ai trouvé plusieur vidéo de documentation sur leur site web qui expliquais leur processus de création. Ils on fait appel a plusieur type d'artiste pour arriver à leur fin. Par example, ils ont fait appel à une orchestre pour enregistrer des bandes-sons pour l'expérience. Ils ont aussi du faire appel à des artiste 3D pour crée toutes les animations qui ont ensuite du être mapper piexels par pixels à cause de la complexiter de l'architeture à l'intérieure de la basilique Notre-Dame.
 [![vidéo provenant du site de Moment Factory](photos/video_link.PNG)](https://momentfactory.com/projets/tous/tous/aura)
